@@ -1,0 +1,8 @@
+Name: Barry, ID:123, Department: Computer Science, Current project: Project: IBM Integration, Budget: 20000.0, Deadline: 150
+Name: Steve, ID:607, Department: Sales, Age: 25, Programming Language: Java, Current project: Project: React Frontend, Budget: 1000.5, Deadline: 20
+Name: John, ID:403, Department: Computer Science, School: Newcastle University, Duration: 12
+Name: Tom, ID:420, Department: Computer Science, Age: 32, Programming Language: .NET, Current project: Project: Java Migration, Budget: 10000.0, Deadline: 50
+Name: Bob, ID:190, Department: eCommerce, School: Northumbria, Duration: 6
+Name: Peter, ID:493, Department: General, Current project: Project: Ai Implementation, Budget: 5000.0, Deadline: 28
+Name: Derek, ID:901, Department: Sales, Age: 41, Programming Language: Java, Current project: Project: IBM Integration, Budget: 20000.0, Deadline: 150
+Name: Tim, ID:854, Department: eCommerce, School: Unknown, Duration: 3
